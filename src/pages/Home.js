@@ -41,8 +41,8 @@ function Home() {
               lng={data.countryInfo.long}
               style={
                 {
-                  color:"#F86666",
-                  backgroundColor: "red",
+                  color:"black",
+                  backgroundColor: "#F86666",
                   height: "25px",
                   width: "45px",
                   textAlign: "center",
